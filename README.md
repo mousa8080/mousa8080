@@ -16,8 +16,8 @@ Backend Developer | Laravel & Django | Building scalable and secure web applicat
 - 💼 Backend Developer (Laravel / Django)
 - 🔭 Building RESTful APIs & web systems
 - 🌱 Improving skills in **Advanced Laravel, Django & System Design**
-- 📫 Email: **DevOmarHussien@gmail.com**
-- 📱 Phone / WhatsApp: **01013400970**
+- 📫 Email: **ahmedmousa010203@gmail.com**
+- 📱 Phone / WhatsApp: **01013400976**
 - 🤝 Open to **Backend Developer opportunities**
 
 ---
