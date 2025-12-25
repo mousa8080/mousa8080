@@ -1,24 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mousa</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">
+Backend Developer | Laravel & Django | Building scalable and secure web applications
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mousa8080&label=Profile%20views&color=0e75b6&style=flat" alt="mousa8080" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mousa8080" alt="mousa8080" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mousa" target="blank"><img src="https://img.shields.io/twitter/follow/mousa?logo=twitter&style=for-the-badge" alt="mousa" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mousa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed mosua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed mosua" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed mousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed mousa" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mousa8080&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mousa8080?label=Followers&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousa8080&show_icons=true&locale=en&layout=compact" alt="mousa8080" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mousa8080&show_icons=true&locale=en" alt="mousa8080" /></p>
+- 🎓 Computer Science Graduate  
+- 💼 Backend Developer (Laravel / Django)
+- 🔭 Building RESTful APIs & web systems
+- 🌱 Improving skills in **Advanced Laravel, Django & System Design**
+- 📫 Email: **DevOmarHussien@gmail.com**
+- 📱 Phone / WhatsApp: **01013400970**
+- 🤝 Open to **Backend Developer opportunities**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mousa8080&" alt="mousa8080" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=201013400970" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/ahmed.mosaa.480690" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/mousa64833875" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="mailto:DevOmarHussien@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F05033?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- PHP (Laravel)
+- Python (Django)
+- RESTful APIs
+- MySQL
+- Authentication & Authorization
+
+### 🔹 Frontend (Basic)
+- HTML, CSS, JavaScript
+- Blade, Bootstrap, TailwindCSS
+
+### 🔹 Tools
+- Git & GitHub
+- Postman
+- VS Code
+- Linux Basics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mousa8080&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousa8080&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousa8080&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+✨ *Always learning, always building clean backend systems.*
